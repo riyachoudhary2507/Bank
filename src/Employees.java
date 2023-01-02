@@ -17,6 +17,7 @@ public class Employees
 		empid = scan.nextInt();
 		System.out.print("Enter employee name: ");
 		empname = scan.nextLine();
+		displayEmployeeInfo();
 		
 	}
 
